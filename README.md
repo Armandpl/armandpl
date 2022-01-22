@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Armand du Parc Locmaria. I love building. Whether that's [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft cheat mods 😈](https://armandpl.com/projects/cng-mods) or [jewels 💍](https://armandpl.com/projects/jewelry-making.html).    
+I am a soon to be Machine Learning Engineer. I am **currently available for a 6 months end of study internship** starting between March and June 2022. I study at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
+
+Feel free to reach out at adpl33[at]gmail.com !
+
+You'll find an index of my recent blog posts and videos at [armandpl.com](https://armandpl.com).
+
 <!--
 **Armandpl/armandpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
