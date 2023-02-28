@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Armand du Parc Locmaria. I love building. Whether that's [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft cheat mods 😈](https://armandpl.com/projects/cng-mods) or [jewels 💍](https://www.youtube.com/watch?v=Phko7W1RhAA).    
+My name is Armand du Parc Locmaria. I love building. Whether that's [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft hacks](https://armandpl.com/projects/cng-mods) or [jewels 💍](https://www.youtube.com/watch?v=Phko7W1RhAA).    
 I am a soon to be Machine Learning Engineer studying at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
 
 Feel free to reach out at adpl33[at]gmail.com/[@armand_dpl](https://twitter.com/armand_dpl) !
