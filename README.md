@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Armand du Parc Locmaria. I love building. Whether that's [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft hacks](https://armandpl.com/projects/cng-mods) or [jewels 💍](https://www.youtube.com/watch?v=Phko7W1RhAA).    
-I am a soon to be Machine Learning Engineer studying at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
+My name is Armand, I can make things. Among those things are [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft hacks](https://armandpl.com/projects/cng-mods) or [jewels 💍](https://www.youtube.com/watch?v=Phko7W1RhAA).    
+I interned at [wandb](https://wandb.ai/site) then [loyalfordogs](https://loyalfordogs.com/) and studied at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
 
 Feel free to reach out at adpl33[at]gmail.com/[@armand_dpl](https://twitter.com/armand_dpl) !
 
-You'll find an index of my recent blog posts and videos at [armandpl.com](https://armandpl.com).
+You'll find an index of my recent blog posts, videos and projects at [armandpl.com](https://armandpl.com).
 
 <!--
 **Armandpl/armandpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
