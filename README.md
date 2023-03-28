@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Armand, I can make things. Among those things are [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft hacks 🥷](https://armandpl.com/projects/cng-mods) and [✨jewels✨](https://www.youtube.com/watch?v=Phko7W1RhAA). I interned at [wandb](https://wandb.ai/site), [loyalfordogs](https://loyalfordogs.com/) and studied at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
+My name is Armand, I can make things. Among those things are [RL Robots 🤖](https://github.com/Armandpl/furuta), [autonomous RC racecars 🏎️](https://github.com/Armandpl/wandb-jetracer), [Minecraft hacks 🥷](https://armandpl.com/projects/cng-mods) and [✨jewels✨](https://www.youtube.com/watch?v=Phko7W1RhAA). I interned at [Weights&Biases🪄🐝](https://wandb.ai/site) then at [Loyal For Dogs🐶](https://loyalfordogs.com/) and studied at [ECE Paris](https://www.ece.fr/ecole-ingenieur/).
 
 Reach out at adpl33@gmail.com, DM me [@armand_dpl](https://twitter.com/armand_dpl) :)
 
